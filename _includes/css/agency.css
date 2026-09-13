@@ -499,6 +499,15 @@ section h3.section-subheading {
     text-align: center;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+    overflow: hidden;
+}
+
+.timeline>li .timeline-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
 }
 
 .timeline>li .timeline-image h4 {
