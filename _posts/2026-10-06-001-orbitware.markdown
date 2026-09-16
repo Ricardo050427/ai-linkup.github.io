@@ -1,30 +1,33 @@
-﻿---
+---
 title: Orbitware
-subtitle: Vinculación e innovación en el sector privado
+subtitle: Taller de CV, presentación y conversatorio
 layout: default
 modal-id: 3
 date: 2026-10-04 12:00:00
 img: orbitware.png
 thumbnail: orbitware.png
 alt: Orbitware en AI-LinkUp 2026
-description: Conversatorio de vinculación empresarial con Orbitware y líderes tecnológicos.
+description: Actividades, taller de empleabilidad y vinculación tecnológica con Orbitware.
 excerpt_separator: <!--listo-->
 ---
 
-### Conversatorio: Vinculación en el Sector Privado
+### Actividades con Orbitware en AI-LinkUp 2026
 
-**Orbitware · Innovación Tecnológica y Talento en la Industria**
+**Innovación Tecnológica, Vinculación y Empleabilidad en la Industria del Software**
 
-Participación destacada de **Orbitware** en el conversatorio de vinculación con la iniciativa privada, compartiendo perspectivas sobre el talento mexicano, desarrollo de soluciones de software de alto impacto y la adopción de inteligencia artificial en proyectos empresariales.
+Orbitware se suma como aliado clave con una destacada agenda académica y de vinculación para los estudiantes de la UNISON:
 
-#### Fecha y Horario:
-- **Miércoles 7 de octubre de 2026**
-- **19:00 - 20:00 hrs**
-- **Auditorio Enrique Valle Flores (Edificio 3K1, UNISON)**
+#### 1. Escalando la Innovación: Quiénes somos y qué hacemos en Orbitware
+- **Miércoles 7 de octubre · 10:00 - 11:00 hrs**
+- Charla institucional sobre proyectos globales de ingeniería de software, arquitectura tecnológica y cultura de desarrollo.
 
-#### Ejes del conversatorio:
-- Perspectivas del mercado tech y demandas actuales de perfiles en IA y ciencia de datos.
-- Sinergias estratégicas entre la Universidad de Sonora y empresas de innovación tecnológica.
-- Integración de egresados al sector productivo privado y desarrollo de talento local.
+#### 2. Conversatorio: Vinculación en el Sector Privado
+- **Miércoles 7 de octubre · 19:00 - 20:00 hrs**
+- Panel de líderes de la industria sobre demandas actuales del mercado laboral en IA y ciencia de datos.
+
+#### 3. Lo que RH Busca: Taller Práctico de Estructuración de CV
+- **Jueves 8 de octubre · 9:00 - 13:00 hrs (4 horas)**
+- Taller interactivo de preparación profesional: elaboración de CV de alto impacto, buenas prácticas y simulación para procesos de selección tech.
 
 <!--listo-->
+
