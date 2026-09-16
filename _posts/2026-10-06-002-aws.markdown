@@ -1,0 +1,30 @@
+﻿---
+title: AWS User Group
+subtitle: IA en todo el ciclo de vida del desarrollo de software
+layout: default
+modal-id: 2
+date: 2026-10-05 12:00:00
+img: aws.png
+thumbnail: aws.png
+alt: AWS User Group Sonora
+description: Mesa redonda técnica con la comunidad de AWS User Group Sonora.
+excerpt_separator: <!--listo-->
+---
+
+### Mesa Redonda: UNISON & AWS User Group Sonora
+
+**IA en todo el ciclo de vida del desarrollo de software**
+
+Sesión técnica y mesa de diálogo con especialistas de la nube y de la comunidad de **AWS User Group Sonora**, abordando cómo la inteligencia artificial transforma la arquitectura de software, pipelines MLOps, asistentes de código y buenas prácticas de desarrollo en la nube.
+
+#### Fecha y Horario:
+- **Jueves 8 de octubre de 2026**
+- **18:00 - 20:00 hrs**
+- **Auditorio Enrique Valle Flores (Edificio 3K1, UNISON)**
+
+#### Temas destacados:
+- Asistentes de desarrollo basados en IA generativa en la nube.
+- Despliegue de modelos de machine learning y arquitecturas serverless.
+- Casos de uso prácticos en la industria e inserción laboral de ingenieros de datos y software.
+
+<!--listo-->

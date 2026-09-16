@@ -1,0 +1,30 @@
+﻿---
+title: Orbitware
+subtitle: Vinculación e innovación en el sector privado
+layout: default
+modal-id: 3
+date: 2026-10-04 12:00:00
+img: orbitware.png
+thumbnail: orbitware.png
+alt: Orbitware en AI-LinkUp 2026
+description: Conversatorio de vinculación empresarial con Orbitware y líderes tecnológicos.
+excerpt_separator: <!--listo-->
+---
+
+### Conversatorio: Vinculación en el Sector Privado
+
+**Orbitware · Innovación Tecnológica y Talento en la Industria**
+
+Participación destacada de **Orbitware** en el conversatorio de vinculación con la iniciativa privada, compartiendo perspectivas sobre el talento mexicano, desarrollo de soluciones de software de alto impacto y la adopción de inteligencia artificial en proyectos empresariales.
+
+#### Fecha y Horario:
+- **Miércoles 7 de octubre de 2026**
+- **19:00 - 20:00 hrs**
+- **Auditorio Enrique Valle Flores (Edificio 3K1, UNISON)**
+
+#### Ejes del conversatorio:
+- Perspectivas del mercado tech y demandas actuales de perfiles en IA y ciencia de datos.
+- Sinergias estratégicas entre la Universidad de Sonora y empresas de innovación tecnológica.
+- Integración de egresados al sector productivo privado y desarrollo de talento local.
+
+<!--listo-->
