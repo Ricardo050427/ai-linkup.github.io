@@ -7,34 +7,28 @@ url: https://ai-linkup.github.io
 
 people:
 - name: Julio Waissman Vilanova
-  position: Responsable académico
-- name: Adrian Vazquez Osorio
-  position: Colaborador académico
-- name: Edelmira Rodriguez Alcantar
-  position: Colaboradora académica
-- name: Eduardo Acuña Yeomans
-  position: Colaborador académico
-- name: Jesus Francisco Espinoza Fierro
-  position: Colaborador académico
+  position: Colaborador Académico
+- name: Samuel González López
+  position: Colaborador Académico
 - name: Juan Pablo Soto Barrera
-  position: Colaborador académico
-- name: Olivia Carolina Gutú Ocampo
-  position: Colaboradora académica
-- name: Rosalia Guadalupe Hernandez Amador
-  position: Colaboradora académica
+  position: Colaborador Académico
+- name: Eduardo Acuña Yeomans
+  position: Colaborador Académico
+- name: Adrián Vázquez Osorio
+  position: Colaborador Académico
+- name: David Herrera Sánchez
+  position: Colaborador Académico
+- name: Aaron Lara Ordoñez
+  position: Colaborador Académico
+- name: Francisco Ricardo Hernandez Astorga
+  position: Colaborador Estudiante
+- name: Karol Burrola Torres
+  position: Colaboradora Estudiante
+- name: Sebastian Alcantar Vicencio
+  position: Colaborador Estudiante
+- name: Kevin Osmar Núñez Manríquez
+  position: Colaborador Estudiante
 - name: Dania Paloma Vega Noriega
-  position: Colaboradora estudiante
-- name: Alan David Torres Flores
-  position: Colaborador estudiante
-- name: Braulio Alessandro Sanchez Bermudez
-  position: Colaborador estudiante
-- name: Dante Alejandro Tostado Cortes
-  position: Colaborador estudiante
-- name: Fausto Misael Medina Lugo
-  position: Colaborador estudiante
-- name: Manuel Eduardo Gortarez Blanco
-  position: Colaborador estudiante
-- name: Omar Pacheco Velasquez
-  position: Colaborador estudiante
+  position: Colaboradora Estudiante
 
 future: true
