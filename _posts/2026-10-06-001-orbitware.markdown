@@ -17,9 +17,9 @@ excerpt_separator: <!--listo-->
 
 Orbitware se suma como aliado clave con una destacada agenda académica y de vinculación para los estudiantes de la UNISON:
 
-#### 1. Escalando la Innovación: Quiénes somos y qué hacemos en Orbitware
-- **Miércoles 7 de octubre · 10:00 - 11:00 hrs**
-- Charla institucional sobre proyectos globales de ingeniería de software, arquitectura tecnológica y cultura de desarrollo.
+#### 1. El nuevo Paradigma profesional: habilidades que van a definir una carrera
+- **Viernes 9 de octubre · 9:00 - 10:00 hrs**
+- Conferencia impartida por **Rodolfo Saldaña y Francisco Coss (Team Orbitware)** sobre las competencias técnicas, metodológicas y humanas que definirán una carrera en la industria del software y la IA.
 
 #### 2. Conversatorio: Vinculación en el Sector Privado
 - **Miércoles 7 de octubre · 19:00 - 20:00 hrs**
