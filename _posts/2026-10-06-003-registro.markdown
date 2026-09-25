@@ -16,7 +16,7 @@ excerpt_separator: <!--listo-->
 <div style="text-align: center; margin: 35px 0;">
   <a href="https://luma.com/cmzmby7h" target="_blank" class="btn btn-primary btn-xl" style="display: inline-flex; align-items: center; justify-content: center; gap: 16px; padding: 36px 50px; min-height: 110px; font-size: 24px; font-weight: 800; letter-spacing: 1px; border-radius: 65px; text-decoration: none; max-width: 100%; white-space: normal; box-sizing: border-box; box-shadow: 0 8px 25px rgba(254, 209, 54, 0.45); line-height: 1.3;">
     <i class="fa fa-ticket" style="font-size: 32px;"></i>
-    <span>¡REGISTRARSE EN LU.MA!</span>
+    <span>REGÍSTRATE AHORA</span>
     <i class="fa fa-external-link" style="font-size: 22px;"></i>
   </a>
   <p class="text-muted" style="margin-top: 14px; font-size: 14px; font-weight: 600;">
