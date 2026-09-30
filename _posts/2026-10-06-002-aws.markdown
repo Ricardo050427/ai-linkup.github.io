@@ -1,30 +1,51 @@
-﻿---
+---
 title: AWS User Group
 subtitle: IA en todo el ciclo de vida del desarrollo de software
 layout: default
 modal-id: 2
 date: 2026-10-05 12:00:00
-img: aws.png
+img: aws-panel.png
 thumbnail: aws.png
 alt: AWS User Group Sonora
-description: Mesa redonda técnica con la comunidad de AWS User Group Sonora.
+description: Mesa redonda técnica con la comunidad de AWS User Group Hermosillo.
 excerpt_separator: <!--listo-->
 ---
 
-### Mesa Redonda: UNISON & AWS User Group Sonora
+### Panel de Discusión: UNISON & AWS User Group Hermosillo
 
-**IA en todo el ciclo de vida del desarrollo de software**
+**IA en el ciclo de desarrollo de software: de Copilot a los agentes inteligentes**
 
-Sesión técnica y mesa de diálogo con especialistas de la nube y de la comunidad de **AWS User Group Sonora**, abordando cómo la inteligencia artificial transforma la arquitectura de software, pipelines MLOps, asistentes de código y buenas prácticas de desarrollo en la nube.
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://www.meetup.com/aws-user-group-hermosillo/events/316685449/" target="_blank" class="btn btn-primary" style="background-color: #ff9900; border-color: #ff9900; color: #fff; font-weight: 700; border-radius: 35px; padding: 15px 32px; font-size: 18px; box-shadow: 0 6px 20px rgba(255, 153, 0, 0.45); display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
+    <i class="fa fa-calendar-check-o" style="font-size: 20px;"></i>
+    <span>REGISTRARSE EN MEETUP</span>
+    <i class="fa fa-external-link"></i>
+  </a>
+</div>
 
-#### Fecha y Horario:
-- **Jueves 8 de octubre de 2026**
-- **18:00 - 20:00 hrs**
-- **Auditorio Enrique Valle Flores (Edificio 3K1, UNISON)**
+Querida comunidad, queremos invitarlos al siguiente evento:
 
-#### Temas destacados:
-- Asistentes de desarrollo basados en IA generativa en la nube.
-- Despliegue de modelos de machine learning y arquitecturas serverless.
-- Casos de uso prácticos en la industria e inserción laboral de ingenieros de datos y software.
+En el marco de AI Link Up 2026, evento organizado por la Universidad de Sonora para celebrar los primeros seis años de la Maestría en Ciencia de Datos, la Universidad de Sonora y AWS User Group Hermosillo colaboran para presentar una mesa redonda sobre el impacto de la inteligencia artificial en el desarrollo de software.
+
+Profesionales de la industria tecnológica compartirán experiencias y perspectivas sobre cómo la IA está transformando la manera en que diseñamos, construimos y operamos software, desde los primeros asistentes de código hasta los actuales agentes de IA y nuevos flujos de desarrollo.
+
+**Regístrate en:**
+- [https://ai-linkup.unison.mx/](https://ai-linkup.unison.mx/)
+- [https://www.meetup.com/aws-user-group-hermosillo/events/316685449/](https://www.meetup.com/aws-user-group-hermosillo/events/316685449/)
+
+#### Panelistas y Moderadores:
+- **Oscar Medrano** — Moderador · Managing Partner en Mdrn-Ventures
+- **Didier Valdez** — Senior Software Engineer · Microsoft
+- **Tadeo Zamora** — Full Stack Engineer · Zefr / AVIADA
+- **Pablo Ruiz** — Senior iOS Developer · Insulet Corporation
+- **Javier Salazar** — SRE Engineer · Zefr / AVIADA
+- **Naomi Ceron** — Software Engineer · Mitratech
+- **Xavier Loeza** — Senior Software Developer · Ski
+
+#### Fecha, Horario y Sede:
+- **Fecha:** Jueves 8 de octubre de 2026
+- **Horario:** 18:00 - 20:00 hrs
+- **Lugar:** Auditorio Enrique Valle Flores (Depto. de Matemáticas, Edificio 3K1 planta baja, UNISON)
 
 <!--listo-->
+
